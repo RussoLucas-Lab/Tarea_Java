@@ -85,121 +85,121 @@ public class Ejercicio_1 {
 
             case 1:
                 if (dia >= 20) {
-                    System.out.print("Su sigo es ACUARIO\n");
+                    System.out.print("Su signo es ACUARIO\n");
                     System.out.print(" Mi mente visionaria busca siempre nuevas formas de cambiar el mundo.");
                     break;
                 } else {
-                    System.out.print("Su sigo es CAPRICORNIO\n");
+                    System.out.print("Su signo es CAPRICORNIO\n");
                     System.out.print("Con paciencia y disciplina, construyo mi éxito un paso a la vez.");
                     break;
                 }
             case 2:
                 if (dia >= 19) {
-                    System.out.print("Su sigo es PISCIS\n");
+                    System.out.print("Su signo es PISCIS\n");
                     System.out.print("Fluyo con la corriente de mis sueños, encontrando significado en la conexión espiritual");
                     break;
                 } else {
-                    System.out.print("Su sigo es ACUARIO\n");
+                    System.out.print("Su signo es ACUARIO\n");
                     System.out.print(" Mi mente visionaria busca siempre nuevas formas de cambiar el mundo.");
                     break;
                 }
             case 3:
                 if (dia >=21) {
-                    System.out.print("Su sigo es ARIES\n");
+                    System.out.print("Su signo es ARIES\n");
                     System.out.print("El fuego de mi pasión me impulsa a conquistar cualquier desafío.");
                     break;
                 } else {
-                    System.out.print("Su sigo es PISCIS\n");
+                    System.out.print("Su signo es PISCIS\n");
                     System.out.print("Fluyo con la corriente de mis sueños, encontrando significado en la conexión espiritual");
                     break;
                 }
             case 4:
                 if (dia >= 20) {
-                    System.out.print("Su sigo es TAURO\n");
+                    System.out.print("Su signo es TAURO\n");
                     System.out.print("La estabilidad y la tranquilidad son los cimientos sobre los que construyo mi vida");
                     break;
                 } else {
-                    System.out.print("Su sigo es ARIES\n");
+                    System.out.print("Su signo es ARIES\n");
                     System.out.print("El fuego de mi pasión me impulsa a conquistar cualquier desafío.");
                     break;
                 }
             case 5:
                 if (dia >= 21) {
-                    System.out.print("Su sigo es GEMINIS\n");
+                    System.out.print("Su signo es GEMINIS\n");
                     System.out.print("Mi curiosidad infinita me lleva a descubrir nuevas ideas y perspectivas.");
                     break;
                 } else {
-                    System.out.print("Su sigo es TAURO\n");
+                    System.out.print("Su signo es TAURO\n");
                     System.out.print("La estabilidad y la tranquilidad son los cimientos sobre los que construyo mi vida");
                     break;
                 }
             case 6:
                 if (dia >= 21) {
-                    System.out.print("Su sigo es CANCER\n");
+                    System.out.print("Su signo es CANCER\n");
                     System.out.print("Encuentro fuerza en mis emociones, y mi hogar es mi refugio.");
                     break;
                 } else {
-                    System.out.print("Su sigo es GEMIIS\n");
+                    System.out.print("Su signo es GEMIIS\n");
                     System.out.print("Mi curiosidad infinita me lleva a descubrir nuevas ideas y perspectivas.");
                     break;
                 }
             case 7:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es LEO\n");
+                    System.out.print("Su signo es LEO\n");
                     System.out.print("Brillo con confianza, y el mundo es el escenario en el que muestro mi grandeza.");
                     break;
                 } else {
-                    System.out.print("Su sigo es CANCER\n");
+                    System.out.print("Su signo es CANCER\n");
                     System.out.print("Encuentro fuerza en mis emociones, y mi hogar es mi refugio.");
                     break;
                 }
             case 8:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es VIRGO\n");
+                    System.out.print("Su signo es VIRGO\n");
                     System.out.print("La perfección está en los detalles, y cada paso que doy es preciso y calculado.");
                     break;
                 } else {
-                    System.out.print("Su sigo es LEO\n");
+                    System.out.print("Su signo es LEO\n");
                     System.out.print("Brillo con confianza, y el mundo es el escenario en el que muestro mi grandeza.");
                     break;
                 }
             case 9:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es LIBRA\n");
+                    System.out.print("Su signo es LIBRA\n");
                     System.out.print("El equilibrio y la armonía guían mis decisiones, buscando siempre la justicia.");
                     break;
                 } else {
-                    System.out.print("Su sigo es VIRGO\n");
+                    System.out.print("Su signo es VIRGO\n");
                     System.out.print("La perfección está en los detalles, y cada paso que doy es preciso y calculado.");
                     break;
                 }
             case 10:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es ESCORPIO\n");
+                    System.out.print("Su signo es ESCORPIO\n");
                     System.out.print("Mi intensidad emocional me lleva a profundizar en lo desconocido y transformarme.");
                     break;
                 } else {
-                    System.out.print("Su sigo es LIBRA\n");
+                    System.out.print("Su signo es LIBRA\n");
                     System.out.print("El equilibrio y la armonía guían mis decisiones, buscando siempre la justicia.");
                     break;
                 }
             case 11:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es SAGITARIO\n");
+                    System.out.print("Su signo es SAGITARIO\n");
                     System.out.print("La libertad de explorar el mundo y el conocimiento es mi mayor aventura.");
                     break;
                 } else {
-                    System.out.print("Su sigo es ESCORPIO\n");
+                    System.out.print("Su signo es ESCORPIO\n");
                     System.out.print("Mi intensidad emocional me lleva a profundizar en lo desconocido y transformarme.");
                     break;
                 }
             case 12:
                 if (dia >= 23) {
-                    System.out.print("Su sigo es CAPRICORNIO \n");
+                    System.out.print("Su signo es CAPRICORNIO \n");
                     System.out.print("Con paciencia y disciplina, construyo mi éxito un paso a la vez.");
                     break;
                 } else {
-                    System.out.print("Su sigo es SAGITARIO\n");
+                    System.out.print("Su signo es SAGITARIO\n");
                     System.out.print("La libertad de explorar el mundo y el conocimiento es mi mayor aventura.");
                     break;
                 }
